@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'kamleshapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E0DC21122BD4E9094B701BE12BC3502 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83F27313997740EFB64C5640B9DA0F32 }}
           package: .
